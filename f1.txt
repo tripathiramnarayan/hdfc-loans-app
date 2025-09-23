@@ -1,5 +1,11 @@
-//  JIRA 102
+//  JIRA 102 
 public void m2()
 { 
       SOP("ram");
+}
+
+// JIRA 101
+public void m1()
+{  
+   SOP("JIRA 1")
 }
