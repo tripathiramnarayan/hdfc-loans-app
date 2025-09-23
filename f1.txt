@@ -9,3 +9,9 @@ public void m1()
 {  
    SOP("JIRA 101")
 }
+
+//JIRA 103
+public void m3()
+{ 
+int a=10;
+}
