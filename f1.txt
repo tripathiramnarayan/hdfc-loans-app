@@ -10,8 +10,12 @@ public void m1()
    SOP("JIRA 101")
 }
 
+<<<<<<< HEAD
 //JIRA 103
 public void m3()
 { 
 int a=10;
 }
+=======
+Kishan TRipathi;
+>>>>>>> 4c0bcfeac5888c26fcb1e185bb4b5598d444aafb
