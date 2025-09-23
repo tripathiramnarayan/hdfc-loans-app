@@ -7,5 +7,5 @@ public void m2()
 // JIRA 101
 public void m1()
 {  
-   SOP("JIRA 1")
+   SOP("JIRA 101")
 }
